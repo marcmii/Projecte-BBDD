@@ -55,15 +55,15 @@ h1 {
 }
 
 .c1 .caixa-image {
-    background-image: url('/multi/asixImg.png');
+    background-image: url('../imatges/asixImg.png');
 }
 
 .c2 .caixa-image {
-    background-image: url('/multi/dam.jpg');
+    background-image: url('../imatges/dam.jpg');
 }
 
 .c3 .caixa-image {
-    background-image: url('/multi/daw.jpeg');
+    background-image: url('../imatges/daw.jpeg');
 }
 
 .caixa a {
